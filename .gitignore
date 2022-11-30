@@ -1,3 +1,7 @@
 ## Exclude temporary files
 
 *~
+
+## Exclude directory for script output
+
+results/*
